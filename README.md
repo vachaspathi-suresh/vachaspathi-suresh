@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi, I'm Vachaspati Suresh! 👋
 
-<!--
-**vachaspathi-suresh/vachaspathi-suresh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 **Full Stack Developer | Data Engineer**  
+💻 Passionate about building scalable applications and working with modern web, mobile, and big data technologies.
 
-Here are some ideas to get you started:
+## 🔥 About Me
+- 💼 **Data Engineer at TCS**, working with **Hadoop, Databricks, and Apache Spark**.
+- 🌍 **Full Stack Developer** skilled in **ReactJS, React Native, Node.js, and MongoDB**.
+- 🏗️ Experienced in **building web and mobile applications, backend systems, and scalable architectures**.
+- 🎓 **B.Tech in Electronics and Communication** from **IIIT Guwahati**.
+- 🏆 **Databricks Certified Data Engineer Associate**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Featured Projects
+- 🎵 **[OnBeats](https://github.com/vachaspathi-suresh/onbeats)** – Full-stack music streaming app.
+- 🛠️ **[ToolXpert](https://github.com/vachaspathi-suresh/ToolXpert/)** – Multi-purpose mobile utility app.
+- 💬 **[SmashUp](https://github.com/vachaspathi-suresh/SmashUp)** – Real-time chat app with disappearing messages.
+- 🎮 **[Goblet of Games (GoG)](https://github.com/vachaspathi-suresh/GOG)** – Multiplayer gaming platform.
+
+## 📫 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-vachaspati--suresh-blue?logo=linkedin)](https://www.linkedin.com/in/vachaspati-suresh/)  
+[![GitHub](https://img.shields.io/badge/GitHub-vachaspathi--suresh-black?logo=github)](https://github.com/vachaspathi-suresh)  
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-green)](https://vachaspathi-suresh.github.io/)  
+
+🚀 **Always open to new opportunities!** Let's build something amazing together. 😃
+
