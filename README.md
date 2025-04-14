@@ -1,14 +1,14 @@
 # Hi, I'm Vachaspati Suresh! 👋
 
 🚀 **Full Stack Developer | Data Engineer**  
-💻 Passionate about building scalable applications and working with modern web, mobile, and big data technologies.
+💻 Passionate about building scalable web apps & efficient data pipelines.
 
 ## 🔥 About Me
-- 💼 **Data Engineer at TCS**, working with **Hadoop, Databricks, and Apache Spark**.
+- 💼 **Data Engineer at TCS**, working with **Databricks, Data Factory, Azure SQL Database, Azure DevOps**.
 - 🌍 **Full Stack Developer** skilled in **ReactJS, React Native, Node.js, and MongoDB**.
 - 🏗️ Experienced in **building web and mobile applications, backend systems, and scalable architectures**.
 - 🎓 **B.Tech in Electronics and Communication** from **IIIT Guwahati**.
-- 🏆 **Databricks Certified Data Engineer Associate**.
+- 🏆 **Databricks Certified Data Engineer Professional**.
 
 ## 🚀 Featured Projects
 - 🎵 **[OnBeats](https://github.com/vachaspathi-suresh/onbeats)** – Full-stack music streaming app.
